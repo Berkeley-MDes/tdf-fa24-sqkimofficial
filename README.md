@@ -1,41 +1,27 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
+# Hello!
+I'm Sun-Q Kim, a designer expanding across emerging technology fields.
+Branching from my background in Architecture, I plan on exploring other mediums of design that impact our future lives.
 
-# Outline
-[week 1](README.md#week-1-example-report-1)
+# TDF Weekly Progress
+## Week 1 : 240905 First Fabrication
 
-week 2, etc...
+We were tasked to fabricate any object whether by 3D printing or laser cutting.
+Being an Architecture major student, I'm familiar with either method, though I've never actually done the actual hands-on work myself.
+I thought I'd choose laser cutting for now since I expected that I'll be using it more than the 3d Printer for upcoming projects.
 
----
+Upon wondering what to make as well as trying not to over-engineer something as my first project, I realized I haven't got myself a Berkeley MDes souvenir yet!
+I decided to create a Key-chain / Desk Toy that reminds me that I've finally enrolled in Berkeley MDes.
 
-# Github Background Information & Context
-If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
+![Outcome](https://github.com/user-attachments/assets/075b4721-c860-4dd7-bb53-baf5218539b5)
 
-This is your space to store project files, videos, PDFs, notes, images, etc., and (hopefully, neatly) organize so it's easy for viewers (and you!) to navigate. That said, it’s super easy for you to share any file or folder with us (your TDF instructional team) - just send us the link!  As a start, feel free to simply add images to the `/assets` folder, which is located [here](/assets). 
+https://github.com/user-attachments/assets/1e1bf2cc-3e7c-4f93-9aaf-eb2ec046bf14
 
-The specific file that I’m typing into right now is the **README.md** for this repo. 
-##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
-<h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
+This was the first time I've prepared the material, set it in the laser cutter, sent the work to the laser cutting software, make sure the settings were correct etc.
+It did take some Trial & Error and did take time to get my way around the Laser Cutter but I thought this opportunity was a good chance to get familiar with the machine for future purposes.
+I'll be trying out the 3D Printer next!
 
-### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
-
-# Week 1: Example Report 1 #
-## Week of 09/05/2024
-
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
-
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
 
 ---
-
-It's time to start making this space your own! If you want to save these instructions, make a copy.  Also, feel empowered to delete everything in this README.md and start documenting! 
-
-Excited to work with you,
-your TDF teaching team
-
-PS: let us know if you have any questions!!
-
-PPS: 
 
 ## Quick Links, compiled here for your convenience: ##
 
