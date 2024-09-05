@@ -16,8 +16,10 @@ I decided to create a Key-chain / Desk Toy that reminds me that I've finally enr
 
 https://github.com/user-attachments/assets/1e1bf2cc-3e7c-4f93-9aaf-eb2ec046bf14
 
-This was the first time I've prepared the material, set it in the laser cutter, sent the work to the laser cutting software, make sure the settings were correct etc.
-It did take some Trial & Error and did take time to get my way around the Laser Cutter but I thought this opportunity was a good chance to get familiar with the machine for future purposes.
+
+The thickness of the plywood was 0.25 inches but when I set the lasercutter settings to 0.25, the laser didn't manage to completely cut through the wood at certain spots of the wood. After adjusting the thickness to 0.275 inches it managed to cut the whole thing seamlessly.
+
+This was the first time I've prepared the material, set it in the laser cutter, sent the work to the laser cutting software, make sure the settings were correct etc. It did take some Trial & Error and did take time to get my way around the Laser Cutter but I thought this opportunity was a good chance to get familiar with the machine for future purposes.
 I'll be trying out the 3D Printer next!
 
 
