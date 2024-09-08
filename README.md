@@ -19,15 +19,15 @@ The algorithm could be broken down into 4 main parts.
 I played around with the parameters of the sphere to change the aesthetics of the Cellphone Stand.
 It didn't seem to change the feasibility of the product.
 
-<img width="1917" alt="01" src="https://github.com/user-attachments/assets/54f1eea1-1b55-4d29-bf17-476b674ccd4f">
-<img width="1917" alt="02" src="https://github.com/user-attachments/assets/4ac20fa5-2898-4196-9071-86e94cf91401">
+<img width="1000" alt="01" src="https://github.com/user-attachments/assets/54f1eea1-1b55-4d29-bf17-476b674ccd4f">
+<img width="1000" alt="02" src="https://github.com/user-attachments/assets/4ac20fa5-2898-4196-9071-86e94cf91401">
 
 However, playing with the parameters of the subtracted cylinder seemed to cause problems with the feasibility evaluations.
 It was interesting to see how it evaluator component produced texts that described the reason of the faulty feasibility as well as changing the simulated color.
 
-<img width="1917" alt="03" src="https://github.com/user-attachments/assets/ab2f3f37-1ea6-4458-863a-4702d37b581b">
-<img width="1916" alt="04" src="https://github.com/user-attachments/assets/c7895778-e852-4626-b323-a8539c7d6d60">
-<img width="1912" alt="05" src="https://github.com/user-attachments/assets/1d8dd9fa-2f33-4aaa-88c6-7bbb8b8352fc">
+
+<img width="1000" alt="04" src="https://github.com/user-attachments/assets/c7895778-e852-4626-b323-a8539c7d6d60">
+<img width="1000" alt="05" src="https://github.com/user-attachments/assets/1d8dd9fa-2f33-4aaa-88c6-7bbb8b8352fc">
 
 
 
