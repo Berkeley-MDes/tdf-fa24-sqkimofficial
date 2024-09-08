@@ -23,6 +23,23 @@ This was the first time I've prepared the material, set it in the laser cutter, 
 I'll be trying out the 3D Printer next!
 
 
+
+
+## Week 2 Part 1 : 240908 Breaking down the Grasshopper Algorithm
+
+Well, this class we were ambushed by a Grasshopper Algorithm used to create a Cellphone Stand.
+The algorithm could be broken down into 4 main parts.
+1) Preparing the Foundations of the Cellphone Stand
+2) Designing the Aesthetics of the Cellphone Stand (Through subtracting shapes)
+3) Importing & Adjusting the Cellphone Model
+4) Evaluating the Product's Feasibility
+
+[240909 TDF Cellphone Stand.pdf](https://github.com/user-attachments/files/16923987/240909.TDF.Cellphone.Stand.pdf)
+
+
+
+
+
 ---
 
 ## Quick Links, compiled here for your convenience: ##
