@@ -2,6 +2,8 @@
 I'm Sun-Q Kim, a designer expanding across emerging technology fields.
 Branching from my background in Architecture, I plan on exploring other mediums of design that impact our future lives.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # TDF Weekly Progress
 
 ## Week 2 Part 1 : 240908 Breaking down the Grasshopper Algorithm
@@ -13,8 +15,9 @@ The algorithm could be broken down into 4 main parts.
 2) Designing the Aesthetics of the Cellphone Stand (Through subtracting shapes)
 3) Importing & Adjusting the Cellphone Model
 4) Evaluating the Product's Feasibility
-   
-![TDF Cellphone Stand Algorithm](https://github.com/user-attachments/assets/bc3f8a94-bd87-46ae-8bdf-6e47d411d692)
+  
+![240909 TDF Cellphone Stand_page-0001](https://github.com/user-attachments/assets/b4ede3fe-9831-4bdf-9503-56c8693f5211)
+
 
 I played around with the parameters of the sphere to change the aesthetics of the Cellphone Stand.
 It didn't seem to change the feasibility of the product.
@@ -22,12 +25,22 @@ It didn't seem to change the feasibility of the product.
 <img width="1000" alt="01" src="https://github.com/user-attachments/assets/54f1eea1-1b55-4d29-bf17-476b674ccd4f">
 <img width="1000" alt="02" src="https://github.com/user-attachments/assets/4ac20fa5-2898-4196-9071-86e94cf91401">
 
+
 However, playing with the parameters of the subtracted cylinder seemed to cause problems with the feasibility evaluations.
 It was interesting to see how it evaluator component produced texts that described the reason of the faulty feasibility as well as changing the simulated color.
 
-
 <img width="1000" alt="04" src="https://github.com/user-attachments/assets/c7895778-e852-4626-b323-a8539c7d6d60">
 <img width="1000" alt="05" src="https://github.com/user-attachments/assets/1d8dd9fa-2f33-4aaa-88c6-7bbb8b8352fc">
+
+
+I made a set of my own components to replace the original Sphere form to come up with different aesthetics for the Cellphone stand.
+I made sure to adjust the number slider parameters to make the product pass the feasibility evaluation test.
+
+<img width="1000" alt="06" src="https://github.com/user-attachments/assets/4c36e2d5-1cf9-418d-a18f-ef597769fcd6">
+<img width="1131" alt="07" src="https://github.com/user-attachments/assets/3fe74164-d13b-4665-95ec-7481246f1cd8">
+
+
+
 
 
 
