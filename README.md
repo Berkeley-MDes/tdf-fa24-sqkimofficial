@@ -11,6 +11,7 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 Well, this class we were ambushed by a Grasshopper Algorithm used to create a Cellphone Stand.
 
 The algorithm could be broken down into 4 main parts.
+I borrowed professor Dubberly's method of concept mapping here. (Thank you!)
 1) Preparing the Foundations of the Cellphone Stand
 2) Designing the Aesthetics of the Cellphone Stand (Through subtracting shapes)
 3) Importing & Adjusting the Cellphone Model
