@@ -6,7 +6,23 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 
 # TDF Weekly Progress
 
-## Week 2 : 240908 Breaking down the Grasshopper Algorithm
+## Week 2 part2 : 240912 Trying out my own Grasshopper forms
+
+I was tasked to experiment and come up with my own grasshopper algorithm to make forms.
+I felt building my own algorithm from scratch was a bit overwhelming from now so I just brought up an old algorithm I came up with a few years ago.
+It's basically a set of cubes that were interconnected to each other.
+![01](https://github.com/user-attachments/assets/11db06e3-e414-483c-a846-068f5b498acf)
+
+It's done using List, Closest Point, and Extend Curve components 
+![03](https://github.com/user-attachments/assets/61a467f5-3015-4682-b5c2-1f9660bd3b73)
+![02](https://github.com/user-attachments/assets/28b52812-eb0c-443d-8508-d1b2aeee0ba9)
+
+Next week I'm hoping to 3D print out what I've come up with.
+
+
+
+
+## Week 2 part1 : 240908 Breaking down the Grasshopper Algorithm
 
 Well, this class we were ambushed by a Grasshopper Algorithm used to create a Cellphone Stand.
 
