@@ -17,6 +17,10 @@ It's done using List, Closest Point, and Extend Curve components
 ![03](https://github.com/user-attachments/assets/61a467f5-3015-4682-b5c2-1f9660bd3b73)
 ![02](https://github.com/user-attachments/assets/28b52812-eb0c-443d-8508-d1b2aeee0ba9)
 
+Baking the form and using as a module to combine with each other can look a little like this :
+![04](https://github.com/user-attachments/assets/2f0e8972-bc5d-411a-8c99-f0056df07e4e)
+
+
 Next week I'm hoping to 3D print out what I've come up with.
 
 
