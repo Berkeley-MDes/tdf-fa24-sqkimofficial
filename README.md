@@ -6,7 +6,7 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 
 # TDF Weekly Progress
 
-## Week 2 Part 1 : 240908 Breaking down the Grasshopper Algorithm
+## Week 2 : 240908 Breaking down the Grasshopper Algorithm
 
 Well, this class we were ambushed by a Grasshopper Algorithm used to create a Cellphone Stand.
 
