@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/95d83d6d-a38e-4fd0-a1cc-aa0c7bf8953f
 # Hello!
 I'm Sun-Q Kim, a designer expanding across emerging technology fields.
 Branching from my background in Architecture, I plan on exploring other mediums of design that impact our future lives.
@@ -15,10 +13,7 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 
 
 
-https://github.com/user-attachments/assets/a549cd90-5338-407b-8751-56f8969b102a
-https://github.com/user-attachments/assets/9cacbdeb-4fbf-4b1c-9f15-fa90210b1faf
-https://github.com/user-attachments/assets/51f4fcfb-1604-48f4-af05-5628ebdc8f7d
-https://github.com/user-attachments/assets/215aed47-491d-471b-845a-80f2c9d0905a
+
 
 
 
