@@ -8,12 +8,46 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 
 ## Week 3 : 240913 First Assignment Submitted! [Creating a 3D Printed Wrist Cast]
 
+1st Assignment Video Link : https://www.youtube.com/watch?v=p_8ykj9fLzU
+I chose to fabricate a Wrist Cast that can be used for Chronic Wrist Pain Patients.
+The concept seemed interesting as it could open possiblities to use 3D scanning and 3D Printing in the process.
+
+![System](https://github.com/user-attachments/assets/acd09a52-703c-43da-9877-fd7987dcd7de)
+This was the process flow system I came up with.
+
+https://github.com/user-attachments/assets/d20f3b1d-0b3b-4044-9f1e-7869e0e74d21
+https://github.com/user-attachments/assets/0a593241-d12b-4fe4-970b-ce680d6ec6d7
+https://github.com/user-attachments/assets/461142b3-9a4f-4e75-ab92-c257b7865d02
+https://github.com/user-attachments/assets/adb15605-0563-4886-87cd-c1317cdbac30
+These were attempts of scanning my own Arm to import the 3D Model into grasshopper.
+
+https://github.com/user-attachments/assets/29263010-5c1a-453f-a0e5-a53c5d045096
+Going through the grasshopper code featuring parameters.
+
+https://github.com/user-attachments/assets/c625cadc-20c7-46ae-b48e-f2eed33acb03
+The preparation prior to 3D Printing.
+
+https://github.com/user-attachments/assets/b8225eb4-e0f4-42b2-a2c0-f56dfc3d0001
+https://github.com/user-attachments/assets/516c2dd4-8aa7-4c99-b4bf-88ddd798aefe
+Some footage of the 3D Printing Process
+
+https://github.com/user-attachments/assets/07fd3fd4-a308-45b2-9715-45258a62691c
+https://github.com/user-attachments/assets/18c57869-52ac-41ad-8048-fbd9349f98f0
+Some footage of detaching the supports from the 3D Printed Model.
+
+![14](https://github.com/user-attachments/assets/052c30a5-7166-436f-94db-354fea363cca)
+![15](https://github.com/user-attachments/assets/d3c7f685-2217-4a90-9425-bcdfd2c36d22)
+Before / After the detachment process.
 
 
+![nibbs_nibbsss_a_group_of_people_using_individually_customized_3_e16993e6-766d-40f8-85ed-a829d52ea58f](https://github.com/user-attachments/assets/0bdad564-4ab4-4576-8720-d670cd3ca1f5)
+![nibbs_nibbsss_a_long_shot_of_a_fully_automated_manufacturing_sy_d3efaca2-e191-4766-ab1c-59e6a45cb71b](https://github.com/user-attachments/assets/495d6f11-0232-4461-9f43-f96cf9bd5e30)
+Reference images I generated through midjourney to illustrate my speculations of systemic & computational design.
 
+I didn't take into consideration the part where the hand wouldn't be able to fit the wrist opening which leaves room for improvement.
+I believe it would be better to 3D cut the part into 2 pieces so that it can be combined after being 3d printed.
 
-
-
+More in-depth speculations, reflections, and details of the process are included in the youtube video above.
 
 
 
