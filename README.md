@@ -6,7 +6,7 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 
 # TDF Weekly Progress
 
-## Week 3 : 240913 First Assignment Submitted! [Creating a 3D Printed Wrist Cast]
+## Week 3 : 240919 First Assignment Submitted! [Creating a 3D Printed Wrist Cast]
 
 1st Assignment Video Link : https://www.youtube.com/watch?v=p_8ykj9fLzU
 I chose to fabricate a Wrist Cast that can be used for Chronic Wrist Pain Patients.
