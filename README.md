@@ -21,9 +21,6 @@ https://github.com/user-attachments/assets/461142b3-9a4f-4e75-ab92-c257b7865d02
 https://github.com/user-attachments/assets/adb15605-0563-4886-87cd-c1317cdbac30
 These were attempts of scanning my own Arm to import the 3D Model into grasshopper.
 
-https://github.com/user-attachments/assets/29263010-5c1a-453f-a0e5-a53c5d045096
-Going through the grasshopper code featuring parameters.
-
 https://github.com/user-attachments/assets/c625cadc-20c7-46ae-b48e-f2eed33acb03
 The preparation prior to 3D Printing.
 
