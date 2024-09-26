@@ -16,7 +16,8 @@ The info below must be included in the diagram.
 - Information Flow: What kinds of information or data are shared.
 - Feedback Loops: Where feedback happens, showing how actions or data influence future behaviors.
 
-![Key DailyLife Eco-Systems](https://github.com/user-attachments/assets/60c3a79e-d796-48e0-89b3-22af7922b111)
+![Key DailyLife Eco-Systems](https://github.com/user-attachments/assets/4ffe7367-0c1f-4aae-b584-e766fa507199)
+
 
 I had a hard time drawing more of an intuitive diagram which shows how all the devices are connected to each other.
 I tried drawing several nodes of devices and connect them in a web but it turned out too messy and repetitive.
