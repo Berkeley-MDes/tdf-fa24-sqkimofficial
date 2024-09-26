@@ -5,6 +5,33 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # TDF Weekly Progress
+## Week 4 : 240926 Project2 Begins
+
+We'll be using microcontrollers for this project.
+I haven't exactly used photon hardware before but I have used arduino or raspberrypi briefly in the past on my own.
+
+We've been asked to outline a diagram that shows how things around us are connected to each other.
+The info below must be included in the diagram.
+- Connections: How different elements are connected.
+- Information Flow: What kinds of information or data are shared.
+- Feedback Loops: Where feedback happens, showing how actions or data influence future behaviors.
+
+![Key DailyLife Eco-Systems](https://github.com/user-attachments/assets/60c3a79e-d796-48e0-89b3-22af7922b111)
+
+I had a hard time drawing more of an intuitive diagram which shows how all the devices are connected to each other.
+I tried drawing several nodes of devices and connect them in a web but it turned out too messy and repetitive.
+All devices are connected to each other and it is very likely that they will share the same info to each other both ways rather than different things.
+Also I wasn't entirely sure what type of things would be deemed as feedback in these settings.
+Would it be any sort of signal or communication that is given to the subject?
+Would it have to be a signal or communication that is relevant to a signal or communication sent out?
+
+Not exactly sure where we're going with this but I hope the photon work won't be too advanced since it's completely new to me.
+
+
+
+
+
+
 
 ## Week 3 : 240919 First Assignment Submitted! [Creating a 3D Printed Wrist Cast]
 
