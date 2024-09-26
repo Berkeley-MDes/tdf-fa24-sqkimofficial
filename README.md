@@ -18,7 +18,7 @@ The info below must be included in the diagram.
 
 ![Key DailyLife Eco-Systems](https://github.com/user-attachments/assets/4ffe7367-0c1f-4aae-b584-e766fa507199)
 
-
+Reflections
 I had a hard time drawing more of an intuitive diagram which shows how all the devices are connected to each other.
 I tried drawing several nodes of devices and connect them in a web but it turned out too messy and repetitive.
 All devices are connected to each other and it is very likely that they will share the same info to each other both ways rather than different things.
@@ -26,8 +26,16 @@ Also I wasn't entirely sure what type of things would be deemed as feedback in t
 Would it be any sort of signal or communication that is given to the subject?
 Would it have to be a signal or communication that is relevant to a signal or communication sent out?
 
-Not exactly sure where we're going with this but I hope the photon work won't be too advanced since it's completely new to me.
+https://youtu.be/l3iCWKXP0Cg
+The thoughts of an interconnected system took me back to the AI+Healthcare Hackathon Shryas, Josh, and I (thanks Baurzhan for the footage!)
+We developed and designed a system where an AI agent could reply to emergency callers in distress who are looking for ambulances.
+AI based agents can keep the necessary questions concise and brief to understand if the situation requires urgent attention or can be less prioritized preventing ambulance dispatch delays.
+Introducing AI into the whole connected systems where information flows in so many ways can automate certain processes preventing signal congestions.
 
+Speculations
+Not exactly sure where we're going with this but I hope the photon work won't be too advanced since it's completely new to me.
+I have hopes to apply my knowledge in motion sensors like Mediapipe or KINECT devices as well as interactive software such as Touchdesigner.
+I had ideas of connecting realtime data apis to touchdesigner and mico controllers but I'll have to understand how to use photon controllers first.
 
 
 
