@@ -5,7 +5,31 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # TDF Weekly Progress
-## Week 4 : 240926 Project2 Begins
+## Week 5 : 240929 Particle Web IDE
+
+During last class I had a difficult time following the instructions because for some reason everytime I tried to create a new project in VisualStudio,
+it would appear with 2 problems automatically. Nobody could seem to come up with a solution so I could barely concentrate the class contents.
+![image (3)](https://github.com/user-attachments/assets/926e11bd-a3e9-4c43-a4c2-5c9650baf4cf)
+
+Luckily, Baurzhan and Fareha was able to find an alternative web platform to use instead of VisualStudio.
+I was able to initiate the given example scripts on web IDE and verify/flash them onto my photon.
+Below were some of the scripts I was able to successfully flash.
+![altering periodicity1](https://github.com/user-attachments/assets/116acb51-6f73-4694-a89a-5d483db45a2e)
+![publish](https://github.com/user-attachments/assets/08f1a374-42f7-4843-ad3d-e9ef313ead3d)
+![result publish](https://github.com/user-attachments/assets/94e8745f-8e2b-42ef-a083-6a4f9531c313)
+![3](https://github.com/user-attachments/assets/b43b5ea8-2fcc-4ed2-9b3e-71a90595a14e)
+![Results](https://github.com/user-attachments/assets/8a3d8c5b-cbdd-4d73-83fb-649f511e37cb)
+
+Connecting my photon to my laptop wasn't too much of an issue either.
+![microcontroller](https://github.com/user-attachments/assets/8ba99322-fba9-4037-864d-add3673a84e7)
+https://github.com/user-attachments/assets/99a1f0bf-5764-4a86-a453-0d3ae0eb44ee
+
+I hope I'll be able to find ways to connect web IDE to other software programs maybe using OSC signals.
+
+
+
+
+## Week 5 : 240926 Project2 Begins
 
 We'll be using microcontrollers for this project.
 I haven't exactly used photon hardware before but I have used arduino or raspberrypi briefly in the past on my own.
@@ -28,6 +52,7 @@ Would it have to be a signal or communication that is relevant to a signal or co
 
 https://youtu.be/l3iCWKXP0Cg
 The thoughts of an interconnected system took me back to the AI+Healthcare Hackathon Shryas, Josh, and I (thanks Baurzhan for the footage!)
+
 We developed and designed a system where an AI agent could reply to emergency callers in distress who are looking for ambulances.
 AI based agents can keep the necessary questions concise and brief to understand if the situation requires urgent attention or can be less prioritized preventing ambulance dispatch delays.
 Introducing AI into the whole connected systems where information flows in so many ways can automate certain processes preventing signal congestions.
@@ -42,7 +67,7 @@ I had ideas of connecting realtime data apis to touchdesigner and mico controlle
 
 
 
-## Week 3 : 240919 First Assignment Submitted! [Creating a 3D Printed Wrist Cast]
+## Week 4 : 240919 First Assignment Submitted! [Creating a 3D Printed Wrist Cast]
 
 1st Assignment Video Link : https://www.youtube.com/watch?v=p_8ykj9fLzU
 I chose to fabricate a Wrist Cast that can be used for Chronic Wrist Pain Patients.
@@ -85,7 +110,7 @@ More in-depth speculations, reflections, and details of the process are included
 
 
 
-## Week 2 part2 : 240912 Trying out my own Grasshopper forms
+## Week 3 part2 : 240912 Trying out my own Grasshopper forms
 
 I was tasked to experiment and come up with my own grasshopper algorithm to make forms.
 I felt building my own algorithm from scratch was a bit overwhelming from now so I just brought up an old algorithm I came up with a few years ago.
@@ -105,7 +130,7 @@ Next week I'm hoping to 3D print out what I've come up with.
 
 
 
-## Week 2 part1 : 240908 Breaking down the Grasshopper Algorithm
+## Week 3 part1 : 240908 Breaking down the Grasshopper Algorithm
 
 Well, this class we were ambushed by a Grasshopper Algorithm used to create a Cellphone Stand.
 
@@ -148,7 +173,7 @@ I made sure to adjust the number slider parameters to make the product pass the 
 
 
 
-## Week 1 : 240905 First Fabrication
+## Week 2 : 240905 First Fabrication
 
 We were tasked to fabricate any object whether by 3D printing or laser cutting.
 Being an Architecture major student, I'm familiar with either method, though I've never actually done the actual hands-on work myself.
