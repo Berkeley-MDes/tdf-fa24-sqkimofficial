@@ -5,6 +5,30 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # TDF Weekly Progress
+
+
+## Week 6 : 241003 Particle Web IDE part 2
+
+This week I tried following the tutorial files given to us.
+I tried the button_led_pulse / fsr_to_ledcolor / acccel_to_servo files.
+
+
+[Button LED Press]
+![01](https://github.com/user-attachments/assets/f63a78ba-89e1-4b5f-a252-a2f166c2da7c)
+https://github.com/user-attachments/assets/0c55520f-a7d5-4a77-91e7-c080f6f4ad65
+
+[FSR to LED Color]
+
+
+
+
+
+
+
+
+
+
+
 ## Week 5 : 240929 Particle Web IDE
 
 During last class I had a difficult time following the instructions because for some reason everytime I tried to create a new project in VisualStudio,
