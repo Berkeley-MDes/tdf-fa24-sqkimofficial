@@ -18,13 +18,22 @@ I tried the button_led_pulse / fsr_to_ledcolor / acccel_to_servo files.
 https://github.com/user-attachments/assets/0c55520f-a7d5-4a77-91e7-c080f6f4ad65
 
 [FSR to LED Color]
+![02](https://github.com/user-attachments/assets/fbffb859-f0c6-45b4-b908-9bf9b788a105)
+https://github.com/user-attachments/assets/53440f7d-8198-4634-abeb-c3717275e37a
 
+[FSR to LED Color]
+![basic button](https://github.com/user-attachments/assets/4b1bd166-1d81-4aeb-856d-3800648b5088)
+for some reason when I tried to view the logs in the web ide serial monitor, everytime I flashed the code it would show that my device was disconnected and connected again, now allowing the monitor to display the code status.
 
+Reflections)
+Understanding how the breadboard connections work and how to follow the diagrams to make sure the wires are correctly connected was one of the main takeaways.
+Also looking through the code to see which wire is connected to which part of the photon made it more easier to understand the system.
+I ran into a lot of hiccups including the photon not being able to connect to the wifi again which required Fareha's help to sort out.
+I still can't run Visual studio code for Particle which is also very frustrating
 
-
-
-
-
+Speculations)
+I'm hoping to be able to connect other sensors like leapfrog (I saw there was an ultrasonic sensor that I don't know the name of in the toolkit) to detect proximity interactions soon to try out more interesting projects. This could allow physical interactions with the digital system much like the FSR to LED color code componenet.
+Also the second photon2 that I ordered using the business particle account arrived so I'm hoping to connect multiple photons to try out more advanced systems.
 
 
 
