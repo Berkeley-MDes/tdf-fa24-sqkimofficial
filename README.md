@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/0c55520f-a7d5-4a77-91e7-c080f6f4ad65
 ![02](https://github.com/user-attachments/assets/fbffb859-f0c6-45b4-b908-9bf9b788a105)
 https://github.com/user-attachments/assets/53440f7d-8198-4634-abeb-c3717275e37a
 
-[FSR to LED Color]
+[Basic Button]
 ![basic button](https://github.com/user-attachments/assets/4b1bd166-1d81-4aeb-856d-3800648b5088)
 for some reason when I tried to view the logs in the web ide serial monitor, everytime I flashed the code it would show that my device was disconnected and connected again, now allowing the monitor to display the code status.
 
