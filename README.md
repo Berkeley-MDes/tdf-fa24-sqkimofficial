@@ -9,6 +9,7 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 ## Week 6 : 241006 Soldering the Stemma QT
 <img width="300" alt="04" src="https://github.com/user-attachments/assets/42ae7ea2-5bd1-44b1-bd9e-e344631f7ee3">
 <img width="300" alt="04" src="https://github.com/user-attachments/assets/3a6491f8-cc42-4cc9-aebf-50e055f09ff3">
+
 I've successfully soldered the Stemma QT board to my photon 2.
 
 ![03](https://github.com/user-attachments/assets/c28ec182-b52e-4832-8ee7-2c852b49910a)
@@ -18,6 +19,7 @@ I'm still trying to understand what we exactly have to do on visual studio this 
 <img width="300" alt="04" src="https://github.com/user-attachments/assets/19eb6f13-46e7-4a05-827e-2505c7b66994">
 ![Screenshot 2024-10-06 164336](https://github.com/user-attachments/assets/0359ad77-eca0-492b-af35-d61ad43859ed)
 ![Screenshot 2024-10-06 164351](https://github.com/user-attachments/assets/89342f77-8d43-41bf-b3cf-b11ee66a3b42)
+
 For some reason I get a bunch of errors when I try flashing the accel_gyro code.
 
 
