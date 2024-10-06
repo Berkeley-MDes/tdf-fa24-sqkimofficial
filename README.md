@@ -7,9 +7,8 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 # TDF Weekly Progress
 
 ## Week 6 : 241006 Soldering the Stemma QT
-
-![01](https://github.com/user-attachments/assets/42ae7ea2-5bd1-44b1-bd9e-e344631f7ee3)
-![02](https://github.com/user-attachments/assets/3a6491f8-cc42-4cc9-aebf-50e055f09ff3)
+<img width="500" alt="04" src="https://github.com/user-attachments/assets/42ae7ea2-5bd1-44b1-bd9e-e344631f7ee3">
+<img width="500" alt="04" src="https://github.com/user-attachments/assets/3a6491f8-cc42-4cc9-aebf-50e055f09ff3">
 I've successfully soldered the Stemma QT board to my photon 2.
 
 ![03](https://github.com/user-attachments/assets/c28ec182-b52e-4832-8ee7-2c852b49910a)
