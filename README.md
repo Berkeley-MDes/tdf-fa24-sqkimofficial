@@ -6,6 +6,20 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 
 # TDF Weekly Progress
 
+## Week 6 : 241006 Soldering the Stemma QT
+
+![01](https://github.com/user-attachments/assets/42ae7ea2-5bd1-44b1-bd9e-e344631f7ee3)
+![02](https://github.com/user-attachments/assets/3a6491f8-cc42-4cc9-aebf-50e055f09ff3)
+I've successfully soldered the Stemma QT board to my photon 2.
+
+![03](https://github.com/user-attachments/assets/c28ec182-b52e-4832-8ee7-2c852b49910a)
+Also my second photon has arrived! Can't wait to use this with the soldered photon.
+
+I'm still trying to understand what we exactly have to do on visual studio this week, but I'm glad it's finally working(too soon to say?) again.
+
+
+
+
 
 ## Week 6 : 241003 Particle Web IDE part 2
 
