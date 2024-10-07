@@ -21,6 +21,12 @@ I'm still trying to understand what we exactly have to do on visual studio this 
 ![Screenshot 2024-10-06 164351](https://github.com/user-attachments/assets/89342f77-8d43-41bf-b3cf-b11ee66a3b42)
 
 For some reason I get a bunch of errors when I try flashing the accel_gyro code.
+BUT
+Thanks to TJ I managed to get it to work and now it's flashing like crazy
+https://github.com/user-attachments/assets/3c9903cc-2d37-4240-a0b8-a68c754eae36
+
+
+
 
 
 ## Week 6 : 241003 Particle Web IDE part 2
