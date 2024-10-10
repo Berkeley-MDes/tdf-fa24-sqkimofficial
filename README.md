@@ -6,7 +6,7 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 
 # TDF Weekly Progress
 
-## Week 6 : 241006 Soldering the Stemma QT
+## Week 6 : Soldering the Stemma QT & flashing on Visual Studio
 <img width="300" alt="04" src="https://github.com/user-attachments/assets/42ae7ea2-5bd1-44b1-bd9e-e344631f7ee3">
 <img width="300" alt="04" src="https://github.com/user-attachments/assets/3a6491f8-cc42-4cc9-aebf-50e055f09ff3">
 
@@ -24,6 +24,21 @@ For some reason I get a bunch of errors when I try flashing the accel_gyro code.
 BUT
 Thanks to TJ I managed to get it to work and now it's flashing like crazy
 https://github.com/user-attachments/assets/3c9903cc-2d37-4240-a0b8-a68c754eae36
+
+
+Reflections)
+I'm glad that Visual Studio finally works (with a few errors) to flash my device.
+However I'm not totally sure if it's okay to just copy and paste the code and flash it to my device without understanding the basics of C++.
+I'm also not sure if I know what Stemma QT exactly does and what it can do  if applied to other things.
+It feels like I'm cheating my way through to forcibly make something without learning anything.
+
+Speculations)
+My team for the final assignment for Microcontrollers is with Mia and Shryas.
+We plan on developing a device that tracks the users location and warn them if they enter zones alerted by BerkeleyWarnMe.
+We hope to apply Stemma QT with other GPS tracking devices from Adafruit.
+It feels very risky to plan something with such minimal understanding of the technicals but I really hope it turns out well and functions its purpose.
+![image](https://github.com/user-attachments/assets/56faac41-7c93-4bbf-8bf7-0a7af804da14)
+
 
 
 
