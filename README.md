@@ -5,6 +5,27 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # TDF Weekly Progress
+## Week 7 : Starting to work on Assignment2
+
+Our team will be developing a safety device based on Berkeley WarnMe Messages.
+As Berkeley students, we constantly receive messages from the Berkeley Warn Me system of potential hazards and crimes that occur around the campus area. Most people shrug off the information believing it is irrelevant to them or disregarding its seriousness. The exact location of the event is often forgotten or ignored, which could render the WarnMe system useless. Our objective is to design a physical comprehensive system that alerts the user when they are near or in contact with a ‘Warn Me’ Zone. Zones are detected using a loudness sensor, gas sensor, and button which give coordinates of a potential zone. LEDs and Vibrating Motors let the user know of if they are close proximity to the location.
+[Team Proposal_ Safe-2 (1).pdf](https://github.com/user-attachments/files/17424753/Team.Proposal_.Safe-2.1.pdf)
+
+
+We met up and tried out connecting the vibrating motor, button, gas sensor, and loudness sensor.
+https://github.com/user-attachments/assets/45d08094-800d-4d1d-8cf1-f884cc514f46
+https://github.com/user-attachments/assets/12cccbc3-46ea-430d-ac4f-c5540c733f19
+https://github.com/user-attachments/assets/23d7b32b-2710-4131-a90b-4139a491d795
+(credit : Mia Wu)
+
+However we weren't able to get the loudnesss sensor to differentiate gun shot sounds from just loud noises.
+Also connecting the web api for location tracking and cross-referencing was also rather difficult.
+Lastly because we did not have any gas to test with, we couldn't test if the gas sensor was working or not.
+We told Jeff about these difficulties during class last monday and are waiting for solutions that he will be providing soon to develop our proejct further.
+
+
+
+
 
 ## Week 6 : Soldering the Stemma QT & flashing on Visual Studio
 <img width="300" alt="04" src="https://github.com/user-attachments/assets/42ae7ea2-5bd1-44b1-bd9e-e344631f7ee3">
