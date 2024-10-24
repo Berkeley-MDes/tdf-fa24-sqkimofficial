@@ -5,6 +5,54 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # TDF Weekly Progress
+## Week 8 : SAFE A Warning System for Berkeley
+
+https://youtu.be/De8imr4Wb8M?feature=shared
+
+Reflections
+Getting the BME688 to function as a Gas/Alcohol detecter was difficult since it didn't seem to accurately read the alcohol swabs we put in contact with.
+We had to pivot the concept into a Heat sensor device instead using the Temperature detecting function of the device.
+Other than that everything seemed to get integrated fairly well.
+We told some students about our project and they generally were interested in using it since they want to be safe from nearby hazards.
+It was overall fun working in the team and we built something incredible.
+
+Challenges
+Individual Challenges
+It was difficult to implement GPS Location Protocol so that Photons can communicate with eachother and work with different sensors together.
+It was difficult to merge the code for different sensors without breaking the initial functions.
+Team Challenges
+Combining data from diverse sensors (loudness, gas, button) while ensuring they work together seamlessly.
+The BME688 sensor's gas readings and loudness sensor data can fluctuate due to changing environmental conditions.
+Setting up secure and reliable communication between the Photon 2 and the Google Maps API through the Particle Cloud.
+The Gas Sensor had trouble accurately detecting nearby alcohol levels
+
+Speculations
+Create our custom hardware by miniaturizing components and cut down physical sizes and eliminating the breadboard
+3D print a case for the device for easier wearable equipment in the form of a necklace or cloth pin
+Add Edge ML functions to detect gunshot sounds from other loud noises
+LLM Agents can automatically accept calls and pinpoint WarnMe locations to add to the system
+FSR Setup FSR Setup FSR Setup
+
+Conclusion
+The "Warn Me" Zone alert system successfully detects hazardous areas using gunshot, gas leak sensors, and a manual alert button, providing real-time danger zone coordinates.
+LEDs and vibrating motors serve as clear, effective indicators to alert students when they are near or inside a danger zone.
+The system combines sensory technology and simple feedback mechanisms to ensure immediate awareness of potential threats.
+This design enhances student safety by offering a practical, responsive solution to detect various emergencies on campus.
+With further development, the system can be adapted for broader safety applications and improve emergency response protocols.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Week 7 : Starting to work on Assignment2
 
 Our team will be developing a safety device based on Berkeley WarnMe Messages.
