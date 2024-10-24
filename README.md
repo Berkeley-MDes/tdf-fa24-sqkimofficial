@@ -16,10 +16,10 @@ Other than that everything seemed to get integrated fairly well.
 We told some students about our project and they generally were interested in using it since they want to be safe from nearby hazards.
 It was overall fun working in the team and we built something incredible.
 
-Challenges
 Individual Challenges
 It was difficult to implement GPS Location Protocol so that Photons can communicate with eachother and work with different sensors together.
 It was difficult to merge the code for different sensors without breaking the initial functions.
+
 Team Challenges
 Combining data from diverse sensors (loudness, gas, button) while ensuring they work together seamlessly.
 The BME688 sensor's gas readings and loudness sensor data can fluctuate due to changing environmental conditions.
