@@ -5,6 +5,16 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # TDF Weekly Progress
+## Week 9 : Zerowidth Beginnings
+
+Started working on Zerowidth LLM projects this week.
+It's very confusing to understand how everything works but hopefully I'll get the hang of it soon.
+![image](https://github.com/user-attachments/assets/bc1aa528-4af8-4752-97a2-0de5d200d369)
+
+
+
+
+
 ## Week 8 : SAFE A Warning System for Berkeley
 
 https://youtu.be/De8imr4Wb8M?feature=shared
