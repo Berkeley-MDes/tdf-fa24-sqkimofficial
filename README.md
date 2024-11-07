@@ -4,7 +4,31 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 # TDF Weekly Progress
+
+## Week 10 : Assignment 3
+https://youtu.be/TOfTpiybow8
+
+This week I finished the 3rd Assignment of TDF using Zerowidth.
+I produced an LLM Agent that answers questions of my past work for TDF and about my past experiences or skills on my resume.
+Also to make things interesting I made a variable called [Drama] Levels to make the agent speak in a more dramatic/exaggerative/shakespearean tone.
+
+Reflections) 
+I had many problems with understanding what made the LLM agent not respond based on my variables.
+Also I couldn't  understand why the video time limit was so short. There was no way I could fit the experiment documentations and demonstrations within 3 minutes.
+
+Speculations)
+Roles LLMs Might Play in AI Development
+Automated Updates on Datasets: 
+LLMs can update their own Knowledge database infinitely with self-created critereas to expand their datasets to give increasingly abundant answers.
+Self-Improving Models: 
+LLMs can become central to creating systems capable of reflecting on their biases, data limits, or ethical frameworks through self-analysis.
+Simplified Customization without Code:
+With the use of Zerowidth, we can customize our own agent by even introducing other media like voice or videos without the use of coding knowledge
+
+
+
 ## Week 9 : Zerowidth Beginnings
 
 Started working on Zerowidth LLM projects this week.
