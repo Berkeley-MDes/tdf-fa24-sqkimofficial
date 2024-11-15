@@ -7,6 +7,24 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 
 # TDF Weekly Progress
 
+## Week 11 : Beginning of Assignment 4
+
+Not much happpened this week since we had monday off.
+Submitted the report for assingment 3.
+[Project03_Sun-Q_Kim.pdf](https://github.com/user-attachments/files/17782459/Project03_Sun-Q_Kim.pdf)
+
+Also I competed in Immerse the Bay XR Hackathon at Stanford where our team made an Augmented Environment for closets!
+![KakaoTalk_20241115_154105838_01](https://github.com/user-attachments/assets/402e3a09-8b49-472e-9129-e00f681b2d0e)
+![KakaoTalk_20241115_154105838](https://github.com/user-attachments/assets/b3be6d3f-bbf5-4378-b5e9-a6946db4a0cf)
+Here is our demo video : https://youtu.be/sl5EPjrUJmU
+
+For Assignment 4, I will be working again with Shryas and Mia based on our 2nd Assignment.
+
+
+
+
+
+
 ## Week 10 : Assignment 3
 https://youtu.be/TOfTpiybow8
 
