@@ -7,6 +7,54 @@ Branching from my background in Architecture, I plan on exploring other mediums 
 
 # TDF Weekly Progress
 
+
+## Week 13 : Fabricating and Building the Shoe Prototype
+This week we started the fabrication and design process for the Shoe Prototype.
+After sketching the design and 3d modeling the shoe's bottom and middle soles, we 3d-printed and inserted the electronics Mia and Shryas had made.
+![KakaoTalk_20241209_142138941_08](https://github.com/user-attachments/assets/a064c28d-a062-4c52-a38b-e5c950cc9478)
+
+I focused more on the 3d modeling of the shoe's structure using Rhino and Grasshopper.
+https://github.com/user-attachments/assets/845da17d-31c8-445d-b994-b620a95ef69a
+![iterations](https://github.com/user-attachments/assets/82ca4eaa-d461-4277-b264-2e2e77ee3904)
+![ViewCapture20241209_144833](https://github.com/user-attachments/assets/3d4663dd-d009-4b93-964c-dc2b16744bea)
+
+The 3D printing outcome is as below.
+![KakaoTalk_20241209_142138941_06](https://github.com/user-attachments/assets/d3b45644-9e90-4ed5-afd4-794c93699c98)
+![KakaoTalk_20241209_142138941_05](https://github.com/user-attachments/assets/afc60fa2-8a67-4a40-898c-74a1862b89af)
+![KakaoTalk_20241209_142138941_04](https://github.com/user-attachments/assets/b583c7b2-ea77-4ee0-bee4-5e84136e9ac0)
+
+I was impressed at how we managed to build something that had a satisfying design and also worked systematically.
+It was great to revisit my grasshopper computational skills to make this happen, although the 3d printing process took many trial & error processes.
+I'm hoping that we can manage to finish the whole project on time for the showcase at the end of the course.
+Our team will need to have the LLM to work accurately and detect what is shown in the camera to make the outcome as designed.
+
+
+
+
+
+
+
+## Week 12 : Pivoting our direction for Assignment 4
+After discussing with Mia and Shryas we decided to pivot from our previous idea of continuing our 'Safe' project which we submitted for our 2nd assignment.
+
+The Haptic Navigation Device for the Visually Impaired is an innovative project aimed at enhancing the independence and safety of visually impaired individuals in urban environments. Developed by a team of
+three students - Shryas Bhurat, Mia Wu, and Sun-Q Kim - this assistive technology leverages haptic feedback to provide real-time navigation cues through vibrations in specially designed shoes. By integrating advanced sensors, GPS technology, and a user-friendly mobile application, the system offers a comprehensive solution to the challenges faced by visually impaired people during daily navigation.
+![2](https://github.com/user-attachments/assets/ada37eb9-3c6d-4e7d-91f3-c7c01b727b06)
+![1](https://github.com/user-attachments/assets/2bc5f0b4-4fe8-43f7-93e3-e95bc97cf6c8)
+
+At the core of this project is a sophisticated system architecture that combines hardware and software components. The shoes are equipped with vibration motors in both the left and right soles, connected to a
+microcontroller that processes data from a GPS module. This setup allows for precise directional guidance, with the vibrations indicating when and where to turn. Complementing the hardware is a mobile application
+that enables users or their caregivers to input destinations and customize settings, ensuring a personalized and adaptable navigation experience.
+
+Through this project, I believe we will be able to use everything we have learned for TDF, ranging from 3D Printing something for Computational Design, Utilizing Photons, and Building our LLM systems.
+I hope we can build something successfully that both works and fulfills its purpose as well as being aesthetically well-designed.
+
+
+
+
+
+
+
 ## Week 11 : Beginning of Assignment 4
 
 Not much happpened this week since we had monday off.
